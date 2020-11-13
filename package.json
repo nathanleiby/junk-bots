@@ -1,0 +1,24 @@
+{
+  "name": "junk-bots",
+  "version": "1.0.0",
+  "description": "2 Player Card Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanleiby/junk-bots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanleiby/junk-bots/issues"
+  },
+  "homepage": "https://github.com/nathanleiby/junk-bots#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-tap": "^2.0.0",
+    "puppeteer": "^5.4.1"
+  }
+}

@@ -1,0 +1,91 @@
+# RARITIES:
+# common, uncommon, rare, legendary
+# COST:
+# cost is the amount of energy you must spend on a given turn to use the item
+
+# Cores
+- name: Basic Core
+  rarity: common
+  cost: 0
+  description: 10 HP, +1 Energy
+  type: Core
+- name: Hyper Core
+  rarity: common
+  cost: 0
+  description: 10 HP, +2 Energy
+  type: Core
+- name: Efficient Core
+  rarity: common
+  cost: 0
+  description: 10 HP, 0 Energy, Each equipped battery provides +1 Energy
+  type: Core
+- name: Glass Cannon Core
+  rarity: common
+  cost: 0
+  description: 6 HP, +1 Energy, All weapons do +1 Damage
+  type: Core
+
+# Enhancements
+- name: Core Shard
+  rarity: uncommon
+  cost: 0
+  description: put this in your core and make it stronger!
+  type: Enhancement
+
+# Armor / Shields
+- name: Rusty Plating
+  rarity: common
+  cost: 0
+  description: reduce 1 damage from one incoming attack
+  type: Armor
+- name: Weak Force Field
+  rarity: common
+  cost: 1
+  description: reduce each incoming attack by 1 damage
+  type: Armor
+- name: Spikes
+  rarity: common
+  cost: 1
+  description: deal 1 damage to opponent per incomming attack
+  type: Armor
+- name: Spikes
+  rarity: common
+  cost: 1
+  description: deal 1 damage to opponent per incomming attack
+  type: Armor
+
+# Weapons
+# Melee vs Ranged?
+- name: a
+  cost: a
+  description: Deal 1 damage
+  type: Weapon
+
+# Batteries
+- name: Single Battery
+  rarity: common
+  cost: 0
+  description: +1 Energy
+  type: Battery
+- name: Double Battery
+  rarity: uncommon
+  cost: 0
+  description: +2 Energy
+  type: Battery
+- name: Triple Battery
+  rarity: rare
+  cost: 0
+  description: +3 Energy
+  type: Battery
+
+# Hacking / Control
+- name: EMP Pulse
+  rarity: uncommon
+  cost: 1
+  description: Disable one of your opponents mods until end of their next turn
+  type: Hacking
+- name: Remote Exploit
+  rarity: rare
+  cost: 1
+  description: Destroy one of your opponents mods, then destroy this mod
+  type: Hacking
