@@ -11,6 +11,7 @@
 
 ## Tooling inspiration
 
+- http://www.nandeck.com/
 - https://github.com/Splizard/decker
 - https://github.com/jeandeaual/tts-deckconverter
 - https://github.com/1j01/card-game-generator
